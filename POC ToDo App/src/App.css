@@ -1,0 +1,29 @@
+/* styles.css */
+
+body {
+    font-family: 'Arial', sans-serif;
+  }
+  
+  #app-container {
+    max-width: 400px;
+    margin: auto;
+    padding: 16px;
+    background-color: #c9c0c0;
+    border-radius: 8px;
+    margin-top: 32px;
+  }
+  
+  .input-container {
+    
+    display: flex;
+    gap: 16px;
+    margin-bottom: 16px;
+  }
+  
+  .list-item-container {
+    background-color: white;
+    padding: 12px;
+    border-radius: 4px;
+    margin-bottom: 8px;
+  }
+  
